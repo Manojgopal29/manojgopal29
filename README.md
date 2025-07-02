@@ -1,4 +1,4 @@
-# 📊 Data Storyteller | Problem Solver | Cloud Explorer
+# 📊 Data Storyteller | Problem Solver 
 
 <div align="center">
   
@@ -23,7 +23,7 @@ class DataAlchemist:
         self.role = "Aspiring Data Analyst"
         self.mission = "Transform raw data into golden insights"
         self.languages = ["Python", "SQL", "C"]
-        self.tools = ["Tableau", "MySQL", "Big Data", "Cloud Computing"]
+        self.tools = ["Tableau", "MySQL", "Data Visualization", "Statistical Analysis"]
         self.passion = "Making data speak human language 📈"
         self.current_streak = "Building next-gen analytics platforms"
     
@@ -89,10 +89,10 @@ print(analyst.analyze_everything())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Big Data & Cloud
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+### ☁️ Statistical Analysis & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -119,10 +119,10 @@ print(analyst.analyze_everything())
 
 ```javascript
 const currentFocus = {
-    🎯 primary: ["Big Data Analytics", "Cloud Computing", "Advanced SQL"],
+    🎯 primary: ["Data Analytics", "Statistical Analysis", "Advanced SQL"],
     🔥 projects: {
         "EaseMyBudget": "Full-stack budget tracker that makes finance fun!",
-        "DataPlatform": "Analytics platform that predicts trends before they happen",
+        "DataPlatform": "Analytics platform that reveals hidden insights",
         "AlgoMaster": "Daily dose of coding challenges on LeetCode & CodeChef"
     },
     🌟 nextLevel: "Building ML models that can read the future in data",
@@ -142,8 +142,8 @@ console.log("🚀 Ready to revolutionize data analytics!");
 Data Analysis    ████████████████████████▓   92%
 Python          ████████████████████▓░░░░   85%
 SQL Mastery     ████████████████▓░░░░░░░░   78%
-Cloud Computing ████████████▓░░░░░░░░░░░░   65%
-Big Data        ██████████▓░░░░░░░░░░░░░░   58%
+Statistics      ████████████▓░░░░░░░░░░░░   65%
+Data Viz        ██████████████▓░░░░░░░░░░   70%
 Tableau         ████████████████▓░░░░░░░░   80%
 Problem Solving ████████████████████▓░░░░   88%
 ```
@@ -160,7 +160,7 @@ Problem Solving ████████████████████▓�
 <img src="https://img.shields.io/badge/Data%20Detective-🔍%20Expert-gold?style=for-the-badge&logo=sherlock&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Ninja-⚔️%20Master-red?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python%20Wizard-🐍%20Sorcerer-green?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Explorer-☁️%20Pioneer-blue?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics%20Guru-📊%20Master-purple?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -231,7 +231,7 @@ Problem Solving ████████████████████▓�
 | 🔥 Tuesday | **SQL Deep Dive** | Complex queries conquered |
 | 🚀 Wednesday | **Project Building** | Features added to EaseMyBudget |
 | 📊 Thursday | **Data Visualization** | Stunning charts in Tableau |
-| ☁️ Friday | **Cloud Learning** | Big Data concepts absorbed |
+| 📈 Friday | **Statistical Analysis** | New models and insights |
 | 🎮 Saturday | **Coding Challenges** | LeetCode problems solved |
 | 🌟 Sunday | **Planning & Growth** | Next week's strategy |
 
